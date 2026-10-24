@@ -1,6 +1,6 @@
 # spis
 
-Namespace secured for the Megdan CTF Line. by ShadowStrike.
+Reserved namespace hold. by ShadowStrike.
 
 GitHub: https://github.com/ShadowStrike-CTF/spis
 

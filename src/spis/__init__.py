@@ -1,3 +1,3 @@
-# spis — Namespace secured for the Megdan CTF Line.
+# spis — Reserved namespace hold.
 # © 2026 ShadowStrike. All rights reserved.
 # Aut Viam Inveniam Aut Faciam
